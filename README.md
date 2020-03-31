@@ -10,11 +10,11 @@ LinkedHashMap (Insertion order is kept)
 |1234|"public class Program"|
 
 
-#Methods
+# Methods
 
 
 
-#Real Code example
+# Real Code example
 
 		List<String> list = Arrays.asList("one", "two", "three");
 		List<Integer> integers = Arrays.asList(1,2,3);
