@@ -27,8 +27,8 @@ LinkedHashMap (Insertion order is kept)
 		System.out.println(map);
 	}
 ```
---------------------------------------------------------------------------------
-	```java
+
+```java
 	duplicate.clear();
 		
 		if(duplicate.isEmpty()) {
@@ -37,4 +37,4 @@ LinkedHashMap (Insertion order is kept)
 		else {
 		System.out.println("I must have missed something");
 		}
-	```	
+```	
