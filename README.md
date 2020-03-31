@@ -12,10 +12,10 @@ LinkedHashMap (Insertion order is kept)
 
 # Methods
 
-
+# Query Methods
 
 # Real Code example
-
+```java
 		List<String> list = Arrays.asList("one", "two", "three");
 		List<Integer> integers = Arrays.asList(1,2,3);
 		
@@ -26,3 +26,15 @@ LinkedHashMap (Insertion order is kept)
 		}
 		System.out.println(map);
 	}
+```
+--------------------------------------------------------------------------------
+	```java
+	duplicate.clear();
+		
+		if(duplicate.isEmpty()) {
+			System.out.println("Duplicate is now officially empty");
+		}
+		else {
+		System.out.println("I must have missed something");
+		}
+	```	
