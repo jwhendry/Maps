@@ -37,4 +37,11 @@ LinkedHashMap (Insertion order is kept)
 		else {
 		System.out.println("I must have missed something");
 		}
-```	
+```
+
+```java
+TreeMap<String, Integer> tree = generateTreeMap();
+		
+tree.putAll(map);
+		
+```
